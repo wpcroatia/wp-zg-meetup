@@ -1,20 +1,22 @@
-# Awesome talk title goes here
+# Naslov tvog super predavanja
 
-- __Speaker__: John Doe
-- __Duration__: 25 min
+- __Predavač/predavačica__: Ivana Horvat
+- __Trajanje__: 20/25 min
 
-## Description
+## Opis
 
-This is my very first talk I'm giving at ZgPHP. It will be awesome!  
-In the next few sentences I'll tell you more about the topic, well, more about 
-what I'm going to talk about.
+Na ovome predavanju ću pričati o WordPressu i zašto ga volim. Ovo predavanje će biti zakon!
+U narednih par rečenica ću opisati temu predavanja, koji su bitni detalji i što ćete
+naučiti nakon što odslušate moje predavanje.
 
-## Speaker short bio
+## Kratka biografija predavača/predavačice
 
-My name is John Doe, I'm a PHP engineer passionate about PHP < 5.6. I like coding directly on production and 
-deploy my projects via FTP!
+Moje ime je Ivana Horvat i bavim se WordPressom već 10 godina. Mislim da je zakon i da
+ga možete koristiti u raznorazne svrhe - od pisanja bloga, do razvoja APIja za neke
+cool aplikacije.
 
-## Requirements
-- Internet connection
-- HDMI cable
-- Microphone stand
+## Zahtjevi
+- Internet konekcija
+- HDMI/VGA/DVI/Thunderbolt konektor ili kabel
+- Mikrofon
+- Čaša vode

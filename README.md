@@ -1,32 +1,36 @@
 # WordPress Zagreb Meetup
 
-This repository contains presentations of the previous talks and a talk submission template.
+Ovaj repozitorij sadrži prezentacije prošlih predavanja i predložak za prijavu budućih predavanja.
 
-The idea came from [zgphp](https://github.com/zgphp/zgphp-meetup-talks), where they wanted to simplify the talk submission process.
+Ideja za ovaj repozitorij je došla od [zgphp](https://github.com/zgphp/zgphp-meetup-talks) grupe, gdje im je cilj bio da pojednostave proces prijave predavanja.
 
-# Submit a talk
+# Prijavi predavanje
 
-You have an awesome idea you would like to talk about? You worked on a project and learned some cool things you would like to share with the community? This is the place for you.
+Imaš super ideju vezanu uz WordPress o kojoj bi htio/htjela pričati? Radio/radila si na projektu i naučio/naučila si super stvari koje bi htio/htjela podijeliti s WordPress zajednicom? Ovo je mjesto za tebe 😄.
 
-Sumbmission process is super easy:
+Proces prijave je veoma jednostavan:
 
-1. Fork this repository
-2. Create a branch that looks like `your-name--talk-title` (e.g. `ivan-horvat--gutenberg-and-you`)
-3. Copy the [talk-description-template.md](https://github.com/wpcroatia/wp-zg-meetup/blob/master/.github/talk-description-template.md) from the `.github` folder and name it like the branch in the step 2
-5. Copy the renamed file to a directory of the meetup you're interested in talking at. For instance if you want to give a talk at #21 meetup, place it in `meetups/2019/meetup#21` folder (meetups are happening every two months)
-6. Fill all the details from the template
-7. Submit a PR
+1. Forkaj ovaj repozitorij
+2. Kreiraj branch koji izgleda kao `tvoje-ime--naziv-predavanja` (e.g. `ivan-horvat--gutenberg-i-ti`)
+3. Kopiraj [talk-description-template.md](https://github.com/wpcroatia/wp-zg-meetup/blob/master/.github/talk-description-template.md) iz `.github` direktorij i preimenuj ju da odgovara imenu brancha (korak broj 2)
+4. Kopiraj preimenovanu datoteku u direktorij meetupa na kojem bi htio/htjela držati predavanje. Na primjer, ako želiš držati predavanje na 21. meetupu, kopiraj template u `meetups/2019/meetup#21` direktorij (meetupi se održavaju jednom svaka dva mjeseca)
+5. Popuni detalje predloška
+6. Napravi pull request
 
-Once a PR is submitted there could be some comments, if all is well, PR will be merged and your talk will be scheduled for one of the next meetups :)
+Nakon što je PR podnešen možda ostavimo neke komentare, ako je sve ok, PR će biti spojen i predavanje će biti zakazano za jedan od sljedećih meetupa 🙂.
 
-# Talks wishlist
+# Ideje i želje za predavanja
 
-If you don't want to give a talk, but would like some topic being talked about you can open an issue where you'll describe the topic in more detail.
+Ako ne želiš držati predavanje (trema ili nešto treće), a imaš ideju o kojoj bi volio/volila pričati, otvori issue gdje ćeš opisati detalje o temi koja te zanima.
 
-Before opening the issue, go through the [list of issues](https://github.com/wpcroatia/wp-zg-meetup/issues) and see if there is a similar existing topic. If there is, just leave a thumb up 👍🏻 instead of creating a new issue.
+Prije nego otvoriš issue, prođi kroz [listu otvorenih issue-a](https://github.com/wpcroatia/wp-zg-meetup/issues) i provjeri postoji li slična tema već otvorena. Ako postoji samo ostavi palac gore 👍🏻 umijesto da kreiraš novi issue.
 
-# Useful Links
+# Korisni linkovi
 
-[wordpress-croatia meetup.com](https://www.meetup.com/wordpress-croatia)
+[WordPress Hrvatska meetup.com](https://www.meetup.com/wordpress-croatia)
 
 [wpcroatia.com](https://wpcroatia.com)
+
+[Facebook grupa WordPress Hrvatska](https://www.facebook.com/groups/wpcroatia/)
+
+[Twitter wpcroatia](https://twitter.com/wpcroatia)
