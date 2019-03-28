@@ -1,16 +1,14 @@
-# 21th WordPress Zagreb meetup
+# 22nd WordPress Zagreb meetup and 
+# 1st Zagreb WordPress Meetup
 
-[meetup.com link](https://www.meetup.com/wordpress-croatia/events/258291071/)
+[meetup.com link 1](https://www.meetup.com/wordpress-croatia/events/259663959/)
+[meetup.com link 2](https://www.meetup.com/Zagreb-WordPress-Meetup/events/260060540/)
 
 # Details
 
-Evo nas opet nakon dva mjeseca u novoj godini s 21. WordPress meetupom u Zagrebu.
-
-Nastavljajući s novitetima ovaj put smo odlučili meetup održati u prostorijama HUB385 30.01. u 18h. Imamo tri izvrsna predavača i zanimljive teme, te kao i zadnji put, nagrade koje ćemo dijeliti u tomboli.
+Vrijeme je za drugi po redu ovogodišnji WordPress meetup. Zanimljiva predavanja, vrijedne nagrade, atraktivna nova lokacija i pizza za sve. Rezervirajte 26. Ožujka za novu dozu predavanja i opuštenog druženja ovog puta u uredu Infinuma. Okupljanje počinje od 18 sati. Za pizze se pobrinuo Covideo a za nagradne licence u našem raffleu pobrinuo se OnTheGoSystems koji će sretnim dobitnicima podijeliti godišnje licence za WPML Multilingual CMS I Toolset Interactive. Osim spomenutih licenci podijelit ćemo i goodiese sponzora. Igor Benić se velikodušno pobrinuo da svatko s meetupa ode kao dobitnik. Za sve prisutne imat ćemo pristupni kod za njegov online tečaj “"Become a WordPress Developer"”. Vidimo se 26. Ožujka od 18 sati u Inifinumu.
 
 Prijava je obavezna (i besplatna) putem meetup.com.
-
-Vidimo se u na meetupu.
 
 ## Raspored
 
@@ -18,33 +16,33 @@ Vidimo se u na meetupu.
 
 -------------
 
-### 18:15 : e-Residency – Digitalna nacija koja raste
+### 18:15 : Toolset Blocks
 
-Zašto Estonija postaje sve jača digitalna nacija, privlačeći svojom ponudom sve više freelencera, digitalnih nomada i startupa iz svih krajeva svijeta? Možemo li i mi iz Hrvatske uskočiti u ovaj vlak? U predavanju ćemo na primjeru iz osobnog iskustva objasniti što je e-Residency i čemu služi, zašto, kako i u kojim situacijama otvoriti firmu u Estoniji, a zašto i kada ne. Usporediti ćemo Estoniju s Hrvatskom (također iz osobnog iskustva) i pogledati u budućnost kroz upravo objavljeni e-Residency 2.0 program. Predavanje je namijenjeno freelancerima i svima koji razmišljaju o pokretanju vlastitog posla i ne žele većinu svog vremena, talenta i vještina trošiti na premetanje papira.
+Toolset Blocks je novi plugin koji će ovih dana biti javno objavljen. U prvom navratu ovaj plugin dolazi s 12 blokova koje će se moći iskoristiti kao elementi za Post, Page ili Custom Post Type. Osim blokova tu je i podrška za Custom fields koja omogućava povezivanje na dinamičke izvore podataka, što trenutno ne podržava niti jedan drugi plugin. Ovaj plugin bit će dio Toolset paketa, ali će također biti dostupan za preuzimanje iz repozitorija na WordPress.org, a uskoro će dobiti i svoj API koji će omogućiti drugima da koriste njegove mogućnosti u vlastitim rješenjima (na primjer ACF).
 
-__Krešimir Meze__
+__Kruno Golubić__
 
-Friški WordPressovac, no stari developer. Nakon skoro 20 godina rada po hrvatskim IT firmama kao programer, UI dizajner, voditelj razvoja, product owner i konzultant, upustio se prije 3 godine u avanturu freelancinga na hrvatski način. Povremeni predavač na konferencijama u Hrvatskoj i Europi. Ljubitelj putovanja i planina, a ponekad opali i koju fotku, uči crtati i uvijek voli skuhati nešto fino :)
-
--------------
-
-### 18:40 : Napredni WP Rocket "Ahaa" trenuci
-
-WP Rocket cache je jednostavan za postaviti ukoliko radite sa klasičnim WordPress stranicama, no što se desi ako imate decoupled WordPress ili želite cachirati REST API rute? U ovom predavanju ići ćemo u detalje kako WP Rocket cache radi i skupa ćemo doći do nekih "ahaa" trenutaka koji će vas poštedjeti glavobolja ukoliko planirate raditi sa WP Rocket cache pluginom.
-
-__Ivan Ružević__
-
-Ivan je profesionalni web developer s više od 10 godina iskustva u dizajnu i developmentu. Danas radi kao WordPress Team Lead u Infinum. Njegova specijalnost je front end development, no radio je s raznoraznim tehnologijama i programskim jezicima. Krenuo je kao dizajner 2007. godine, no s vremenom je promijenio fokus na programiranje. Osim front end programskih jezika (JS, CSS/SASS, HTML) radi i s backend tehnologijama u PHPu (Laravel, Symfony, Magento, WordPress). WordPress mu je došao u fokus od verzije 2.8 i od tada se bavi WordPress developmentom.
+Svoje prve web stranice napravio je 1995. godine i tako je započelo njegovo putovanje u svijet weba i IT-a. Tijekom svoje karijere radio je kao webmaster, sistem administrator za UNIX/Linux i Windows operacijske sustave, stručnjak za društvene mreže, predavač i autor IT tečajeva te voditelj korisničke podrške. Trenutno radi u OnTheGoSystems kao Technical Writer.
 
 -------------
 
-### 19:05 : Remove the clutter
+### 18:40 : Fluidne tranzicije stranica u WordPressu
 
-Andrija će pričati o pravoj dozi minimalizma u dizajnu, koja rezultira najmanjim kognitivnim naporom za korisnika. S okupljenima će podijeliti savjete za korisnike koje bilo tko može implementirati u sadašnjim ili budućim projektima.
+Ivan će nam pričati o tome kako napraviti fluidne tranzicije stranica bez refreshanja na WordPressu koristeći Eightshift stranicu kao case, iliti "izgleda kao JS framework, ali nije". Čut ćemo također kako se sa ~100kb koda može u potpunosti transformirati obična WordPress stranica. Pokrit ćemo 2 paketa koja nam omogućavaju tu funkcionalnost (barba.js i anime.js), što sve možemo s njima, odnosno kako funkcioniraju, uz dosta primjera. Ivan će nam na kraju otkriti korine lekcije koje je naučio vezano uz tranzicije i animacije na ovom projektu.
 
-__Andrija Prelec__
+__Ivan Grginov__
 
-Andrija Prelec jer rođen u Križevcima. Diplomirao je na Grafičkom Fakultetu u Zagrebu i svoje vještine dizajna grafičkih proizvoda izbrusio je prilikom rada na brojnim projektima u Shoutemu i Fiveu proteklih par godina. Trenutno je lead dizajner u Specku i vlasnik je PIXL agencije. Sebe opisuje kao kreativnog partnera forward-thinking businessa.
+WordPress Engineer u Infinumu, VR freak i ljubitelj brze vožnje koji je radio u jako puno različitih IT niša i na njega se dobro odnosi ona stara "jack of all trades, master of none". Voli raditi na novim stvarima, nevezano jesu li frontend ili backend. Trenutno zadužen za Eightshift WordPress Boilerplate.
+
+-------------
+
+### 19:05 : Winglio - Rent a Company service
+
+Winglio je servis koji korisnicima nudi mogućnost rentanja firme, odnosno korištenja postojećih međunarodnih firmi za izdavanje računa i naplatu usluga od klijenata bez potrebe otvaranja vlastite firme. Takav model poslovanja idelan je za freelancere i digitalne nomade kojima ovaj servis značajno smanjuje troškove poslovanja i količinu birokracije na koju se često troši jako puno vremena. Više o mogućnostima koje Winglio nudi te prednostima i nedostacima u odnosu na alternativne metode poslovanja ispričati će nam Slavko Pleš, osnivač Winglia.
+
+__Slavko Pleš__
+
+Slavko je ekonomist i poduzetnik s višegodišnjim iskustvom koji je Winglio pokrenuo 2015. godine. Prije toga je vodio vlastitu tvrtku koja se bavila razvojem mobilnih aplikacija. Specijalnost su mu međunarodno poslovanje i optimizacija poslovanja s naglaskom na inovativnom i efikasnom rješavanju problema. Zaljubljenik je u fitness, squash i planinarenje a dvije najdraže aplikacije su mu Fitbit i Blinkist u kojoj u prosjeku sluša više od jedne audioknjige dnevno.
 
 -------------
 
