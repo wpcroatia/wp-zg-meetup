@@ -1,7 +1,7 @@
 # 22nd WordPress Zagreb meetup and 
 # 1st Zagreb WordPress Meetup
 
-[meetup.com link 1](https://www.meetup.com/wordpress-croatia/events/259663959/)
+[meetup.com link 1](https://www.meetup.com/wordpress-croatia/events/259663959/) 
 [meetup.com link 2](https://www.meetup.com/Zagreb-WordPress-Meetup/events/260060540/)
 
 # Details
