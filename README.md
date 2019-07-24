@@ -34,3 +34,26 @@ Prije nego otvoriš issue, prođi kroz [listu otvorenih issue-a](https://github.
 [Facebook grupa WordPress Hrvatska](https://www.facebook.com/groups/wpcroatia/)
 
 [Twitter wpcroatia](https://twitter.com/wpcroatia)
+
+# Dosadašnji sponzori
+
+<img src="sponsors/acf.jpg" alt="acf" />
+<img src="sponsors/carnet.jpg" alt="carnet" />
+<img src="sponsors/covideo.jpg" alt="covideo" />
+<img src="sponsors/events-calendar.jpg" alt="events-calendar" />
+<img src="sponsors/facetWP.jpg" alt="facetWP" />
+<img src="sponsors/hub385.jpg" alt="hub385" />
+<img src="sponsors/infinum.jpg" alt="infinum" />
+<img src="sponsors/jetbrains.jpg" alt="jetbrains" />
+<img src="sponsors/memberpress.jpg" alt="memberpress" />
+<img src="sponsors/netokracija.jpg" alt="netokracija" />
+<img src="sponsors/plus-hosting.jpg" alt="plus-hosting" />
+<img src="sponsors/polylang.jpg" alt="polylang" />
+<img src="sponsors/q-software.jpg" alt="q-software" />
+<img src="sponsors/rocket-launch.jpg" alt="rocket-launch" />
+<img src="sponsors/searchwp.jpg" alt="searchwp" />
+<img src="sponsors/toolset.jpg" alt="toolset" />
+<img src="sponsors/wolt-logo-vector.jpg" alt="wolt-logo-vector" />
+<img src="sponsors/wpml.jpg" alt="wpml" />
+<img src="sponsors/wprocket.jpg" alt="wprocket" />
+<img src="sponsors/yoast.jpg" alt="yoast" />
