@@ -34,3 +34,54 @@ Prije nego otvoriš issue, prođi kroz [listu otvorenih issue-a](https://github.
 [Facebook grupa WordPress Hrvatska](https://www.facebook.com/groups/wpcroatia/)
 
 [Twitter wpcroatia](https://twitter.com/wpcroatia)
+
+# Dosadašnji sponzori
+
+<table width='100%'>
+  <tr>
+    <td align="center"><img src="sponsors/infinum.jpg" alt="infinum" /></td>
+    <td align="center"><img src="sponsors/covideo.jpg" alt="covideo" /></td>
+    <td align="center"><img src="sponsors/acf.jpg" alt="acf" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="sponsors/events-calendar.jpg" alt="events-calendar" /></td>
+    <td align="center"><img src="sponsors/facetWP.jpg" alt="facetWP" /></td>
+    <td align="center"><img src="sponsors/hub385.jpg" alt="hub385" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="sponsors/carnet.jpg" alt="carnet" /></td>
+    <td align="center"><img src="sponsors/jetbrains.jpg" alt="jetbrains" /></td>
+    <td align="center"><img src="sponsors/memberpress.jpg" alt="memberpress" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="sponsors/netokracija.jpg" alt="netokracija" /></td>
+    <td align="center"><img src="sponsors/plus-hosting.jpg" alt="plus-hosting" /></td>
+    <td align="center"><img src="sponsors/polylang.jpg" alt="polylang" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="sponsors/q-software.jpg" alt="q-software" /></td>
+    <td align="center"><img src="sponsors/rocket-launch.jpg" alt="rocket-launch" /></td>
+    <td align="center"><img src="sponsors/searchwp.jpg" alt="searchwp" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="sponsors/toolset.jpg" alt="toolset" /></td>
+    <td align="center"><img src="sponsors/wolt-logo-vector.jpg" alt="wolt-logo-vector" /></td>
+    <td align="center"><img src="sponsors/wpml.jpg" alt="wpml" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="sponsors/wprocket.jpg" alt="wprocket" /></td>
+    <td align="center"><img src="sponsors/yoast.jpg" alt="yoast" /></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
