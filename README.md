@@ -71,7 +71,12 @@ Prije nego otvoriš issue, prođi kroz [listu otvorenih issue-a](https://github.
   <tr>
     <td align="center"><img src="sponsors/wprocket.jpg" alt="wprocket" /></td>
     <td align="center"><img src="sponsors/yoast.jpg" alt="yoast" /></td>
-    <td align="center"></td>
+    <td align="center"><img src="sponsors/neuralab.jpg" alt="neuralab" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="sponsors/gacka16.jpg" alt="gacka16" /></td>
+    <td align="center"><img src="sponsors/relevanssi.jpg" alt="relevanssi" /></td>
+    <td align="center"><img src="sponsors/elegant-themes.jpg" alt="elegant-themes" /></td>
   </tr>
 </table>
 
