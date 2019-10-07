@@ -44,6 +44,7 @@ Dario će govoriti o Block Editoru, page builderu ugrađenom u WordPress core. V
 _Dario Jazbec Hrvatin (OnTheGoSystems)_
 
 Dario je rođen u Zagrebu, ali već dugi niz godina živi i radi u Sloveniji. WordPress je počeo upotrebljavati 2008. godine. u profesionalnoj karijeri je radio kao freelancer i web developer. Proteklih 6 godina radi za firmu OnTheGoSystems koja razvija WordPress pluginove WPML i Toolset. Prve dvije godine radio je kao tester, a zatim je preuzeo vođenje tima za dokumentaciju.
+
 ----------------
 
 ### 19:40 - 19:45 : Raffle
