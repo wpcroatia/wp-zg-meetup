@@ -78,6 +78,11 @@ Prije nego otvoriš issue, prođi kroz [listu otvorenih issue-a](https://github.
     <td align="center"><img src="sponsors/relevanssi.jpg" alt="relevanssi" /></td>
     <td align="center"><img src="sponsors/elegant-themes.jpg" alt="elegant-themes" /></td>
   </tr>
+  <tr>
+    <td align="center"><img src="sponsors/bornfight.jpg" alt="bornfight" /></td>
+    <td align="center"><img src="sponsors/wordfence.jpg" alt="wordfence" /></td>
+    <td align="center"><img src="" alt="" /></td>
+  </tr>
 </table>
 
 
