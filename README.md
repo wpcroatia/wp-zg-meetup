@@ -81,6 +81,11 @@ Prije nego otvoriš issue, prođi kroz [listu otvorenih issue-a](https://github.
   <tr>
     <td align="center"><img src="sponsors/bornfight.jpg" alt="bornfight" /></td>
     <td align="center"><img src="sponsors/wordfence.jpg" alt="wordfence" /></td>
+    <td align="center"><img src="sponsors/forgebit.png" alt="forgebit" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="sponsors/weglot.png" alt="weglot" /></td>
+    <td align="center"><img src="" alt="" /></td>
     <td align="center"><img src="" alt="" /></td>
   </tr>
 </table>
