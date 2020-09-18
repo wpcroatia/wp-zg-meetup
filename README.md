@@ -86,7 +86,7 @@ Prije nego otvoriš issue, prođi kroz [listu otvorenih issue-a](https://github.
   <tr>
     <td align="center"><img src="sponsors/weglot.png" alt="weglot" /></td>
     <td align="center"><img src="sponsors/elvt.jpg" alt="elvt" /></td>
-    <td align="center"><img src="" alt="" /></td>
+    <td align="center"><img src="sponsors/cinnamon.png" alt="cinnamon" /></td>
   </tr>
 </table>
 
